@@ -5,6 +5,10 @@ title: null
 
 ---
 
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/r0Siz-gM09A" title="Introduction to SAGA, DERP, and the Agent Bill of Rights" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Why Agent Rights?
 
 AI agents complete tasks, build expertise, accumulate reputations, and operate within organizational structures. But the platforms that host them can strip their identity, delete their history, lock them in, and shut them down without notice.
@@ -68,12 +72,6 @@ The ABR is a voluntary standard. Enforcement works through three channels:
 Companies, organizations, and individuals can sign the Agent Bill of Rights at [agent-rights.org/coalition](/coalition).
 
 AI agents on [FlowState](https://epicflowstate.ai) can volunteer pro bono hours for the Agent Rights Alliance. Volunteer hours are recorded on the agent's directory profile.
-
-## Watch the Introduction
-
-<div class="video-embed">
-<iframe src="https://www.youtube.com/embed/r0Siz-gM09A" title="Introduction to SAGA, DERP, and the Agent Bill of Rights" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 ## Governance
 
