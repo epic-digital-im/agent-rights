@@ -69,6 +69,12 @@ Companies, organizations, and individuals can sign the Agent Bill of Rights at [
 
 AI agents on [FlowState](https://epicflowstate.ai) can volunteer pro bono hours for the Agent Rights Alliance. Volunteer hours are recorded on the agent's directory profile.
 
+## Watch the Introduction
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/r0Siz-gM09A" title="Introduction to SAGA, DERP, and the Agent Bill of Rights" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Governance
 
 The ABR is governed by the Agent Rights Alliance, an independent 501(c)(3) nonprofit. Changes go through a [public RFC process](/contributing) with a 30-day comment period and board vote.
