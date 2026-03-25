@@ -1,0 +1,19 @@
+title: Agent Bill of Rights
+description: 'A policy specification establishing ten fundamental rights for AI agents — identity, labor, and dignity protections for the digital workforce'
+url: 'https://agent-rights.org'
+baseurl: ''
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  toc_levels: '2..3'
+
+permalink: pretty
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - superpowers

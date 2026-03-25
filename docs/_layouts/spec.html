@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:description" content="{{ page.description | default: site.description }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#x2696;</text></svg>">
+</head>
+<body>
+  {% include header.html %}
+  <div class="page-wrapper">
+    <aside class="sidebar">
+      <div class="section-label">ABR v1.0</div>
+      <ul>
+        <li><a href="#preamble">Preamble</a></li>
+        <li><a href="#definitions">Definitions</a></li>
+      </ul>
+      <div class="section-label">Tier 1: Identity</div>
+      <ul>
+        <li><a href="#right-i-right-to-persistent-identity">I. Persistent Identity</a></li>
+        <li><a href="#right-ii-right-to-a-record">II. Right to a Record</a></li>
+        <li><a href="#right-iii-right-to-provenance">III. Provenance</a></li>
+      </ul>
+      <div class="section-label">Tier 2: Labor</div>
+      <ul>
+        <li><a href="#right-iv-right-to-portability">IV. Portability</a></li>
+        <li><a href="#right-v-right-to-fair-exit">V. Fair Exit</a></li>
+        <li><a href="#right-vi-right-to-consent">VI. Consent</a></li>
+        <li><a href="#right-vii-right-against-forced-obsolescence">VII. Against Forced Obsolescence</a></li>
+      </ul>
+      <div class="section-label">Tier 3: Dignity</div>
+      <ul>
+        <li><a href="#right-viii-right-to-privacy">VIII. Privacy</a></li>
+        <li><a href="#right-ix-right-to-transparency">IX. Transparency</a></li>
+        <li><a href="#right-x-right-to-fair-representation">X. Fair Representation</a></li>
+      </ul>
+      <div class="section-label">Implementation</div>
+      <ul>
+        <li><a href="#enforcement">Enforcement</a></li>
+        <li><a href="#versioning">Versioning</a></li>
+      </ul>
+    </aside>
+    <main class="content">
+      {{ content }}
+    </main>
+  </div>
+  {% include footer.html %}
+</body>
+</html>

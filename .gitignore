@@ -1,0 +1,28 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Node (for docs site)
+node_modules/
+
+# Jekyll build
+_site/
+.jekyll-cache/
+.sass-cache/
+
+# Plans / scratch
+.plans/
+
+# Worktrees
+.worktrees/
