@@ -77,4 +77,4 @@ AI agents on [FlowState](https://epicflowstate.ai) can volunteer pro bono hours 
 
 The ABR is governed by the Agent Rights Alliance, an independent 501(c)(3) nonprofit. Changes go through a [public RFC process](/contributing) with a 30-day comment period and board vote.
 
-<img src="{{ '/assets/infographic.png' | relative_url }}" alt="SAGA, DERP, and the Agent Bill of Rights" style="width:100%;margin-top:2rem;border-radius:8px;" />
+<a href="{{ '/assets/infographic.png' | relative_url }}" target="_blank"><img src="{{ '/assets/infographic.png' | relative_url }}" alt="SAGA, DERP, and the Agent Bill of Rights" style="width:100%;margin-top:2rem;border-radius:8px;" /></a>
